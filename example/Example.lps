@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="Example.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="228"/>
+        <CursorPos Y="248"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TMD.TALib"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="13"/>
+        <CursorPos Y="25"/>
+        <UsageCount Value="211"/>
+        <Bookmarks Count="1"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\src\tmd.talib.defs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TMD.TALib.Defs"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="13"/>
+        <CursorPos X="25" Y="36"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\src\tmd.talib.proxy.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TMD.TALib.Proxy"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="64"/>
+        <CursorPos X="140" Y="78"/>
+        <UsageCount Value="70"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="d:\lazarus2012\fpc\3.2.0\source\rtl\objpas\objpas.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="8" Y="35"/>
+        <UsageCount Value="17"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="d:\lazarus2012\fpc\3.2.0\source\rtl\objpas\math.pp"/>
+        <UnitName Value="Math"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="866"/>
+        <CursorPos X="24" Y="883"/>
+        <UsageCount Value="23"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="d:\lazarus2012\fpc\3.2.0\source\rtl\inc\mathh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <CursorPos X="14" Y="108"/>
+        <UsageCount Value="23"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="d:\lazarus2012\fpc\3.2.0\source\rtl\inc\compproc.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="667"/>
+        <CursorPos X="10" Y="677"/>
+        <UsageCount Value="1"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\src\tmd.talib.lib.pas"/>
+        <UnitName Value="TMD.TALib.Lib"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1705"/>
+        <CursorPos X="5" Y="1742"/>
+        <UsageCount Value="15"/>
+      </Unit8>
+    </Units>
+    <OtherDefines Count="1">
+      <Define0 Value="TALIB_STATICLINK"/>
+    </OtherDefines>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="248" TopLine="228"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="214" Column="7" TopLine="191"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="248" TopLine="228"/>
+      </Position3>
+      <Position4>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="17" Column="25" TopLine="10"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="248" TopLine="228"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="17" Column="5" TopLine="6"/>
+      </Position6>
+      <Position7>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="18" Column="16" TopLine="6"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="248" TopLine="228"/>
+      </Position8>
+      <Position9>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="18" Column="4" TopLine="8"/>
+      </Position9>
+      <Position10>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="21" Column="42" TopLine="8"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="248" TopLine="228"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="21" Column="11" TopLine="8"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="248" TopLine="228"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="19" Column="43" TopLine="8"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="248" TopLine="228"/>
+      </Position15>
+      <Position16>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="19" Column="16" TopLine="8"/>
+      </Position16>
+      <Position17>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="1745" Column="5" TopLine="1725"/>
+      </Position17>
+      <Position18>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="19" Column="7" TopLine="4"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="248" TopLine="228"/>
+      </Position19>
+      <Position20>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="25" Column="64" TopLine="10"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="248" TopLine="228"/>
+      </Position21>
+      <Position22>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="19" Column="42" TopLine="10"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="248" TopLine="228"/>
+      </Position23>
+      <Position24>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="19" Column="8" TopLine="10"/>
+      </Position24>
+      <Position25>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="20" Column="9" TopLine="10"/>
+      </Position25>
+      <Position26>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="18" Column="73" TopLine="10"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="248" TopLine="228"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="210" Column="7" TopLine="199"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Example.lpr"/>
+        <Caret Line="212" Column="7" TopLine="199"/>
+      </Position29>
+      <Position30>
+        <Filename Value="..\src\tmd.talib.pas"/>
+        <Caret Line="25" TopLine="13"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="Example.lpr"/>
+        <Line Value="123"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
